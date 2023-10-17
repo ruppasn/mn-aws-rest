@@ -1,0 +1,5 @@
+
+rootProject.name="mn-aws-rest"
+
+include("app")
+include("infra")
